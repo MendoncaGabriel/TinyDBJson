@@ -1,6 +1,6 @@
 {
   "name": "tinydbjson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Um banco de dados não relacional simples, projetado para pequenos projetos, testes e provas de conceito (POC). Fácil de usar, com foco em operações CRUD diretamente em arquivos JSON, utilizando a biblioteca nativa fs do Node.js.",
   "main": "index.js",
   "scripts": {
